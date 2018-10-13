@@ -4,13 +4,26 @@
     margin-top: 30%;
 }
 
+body {
+    background-image: url('/Bootstrap-Portfolio/assets/images/concrete_seamless.png');
+    background-size: cover; /*to have the image cover the background*/
+  }
+
 section{
     background-image: url('/Bootstrap-Portfolio/assets/images/concrete_seamless.png');
     background-size: cover;
 }
 
-.container{
+/*.container{
     background-color: white;
+}*/
+
+.about{
+    background-color: white; 
+}
+
+.contactForm{
+    background-color: white;  
 }
 
 h6{
